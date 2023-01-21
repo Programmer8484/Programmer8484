@@ -1,16 +1,16 @@
-### Hi there 👋
+¡Hola, soy Luis Aguilar! 👋
 
-<!--
-**Programmer8484/Programmer8484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mi:
 
-Here are some ideas to get you started:
+   Estudio la Ingeniería en Sistemas Computacionales en la UVEG. 
+🌱Actualmente estoy aprendiendo Python, CSS, JavaScript, HTML, React, Node.js, Azure, GitHub y MySQL. 
+  Trabajo actualmente en proyectos personales y algunos de ellos ya los subí.
+  
+Mis intereses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Me apasiona demaciado la Ciberseguridad, la ciencia de datos, la nube, desarrollo web, AI, bases de datos y desarrollo de aplicaciones.
+ 
+Visión: 
+
+  Estoy enfocado en seguir desarrollando mis habilidades como programador, y quiero aplicar lo aprendido en un trabajo formal.
+  Quiero seguir estudiando y preparandome, para ir adquiriendo más conocimiento.
